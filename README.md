@@ -86,6 +86,10 @@ world_cloud.to_file("存储路径2")
 ```
 这段代码生成了两种词云图，并且可以在一个‘mask’基础上生成，效果不错。
 
+![这里写图片描述](http://img.blog.csdn.net/20170802175558498?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVjdG9ybGkzNg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+硕大的何塞·穆里尼奥。。。
+
+![这是采用了mask图片后生成的，较为美观](http://img.blog.csdn.net/20170802175629160?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVjdG9ybGkzNg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 本次做的是英文项目，所以不存在中文分词的问题。如果需要生成针对中文的词云图，请使用结巴分词。
 
 ##生成词频报告
